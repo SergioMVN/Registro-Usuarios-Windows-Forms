@@ -1,0 +1,12 @@
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.exe.config
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.exe
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.pdb
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.exe
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.pdb
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.Agregar.resources
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.DatosUsuarios.resources
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.Registro.resources
